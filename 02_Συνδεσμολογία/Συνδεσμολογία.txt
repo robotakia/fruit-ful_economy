@@ -1,0 +1,12 @@
+servo           microbit shield
+
+καφέ		G0
+κόκκινο		V1 0
+πορτοκαλί	S0
+
+
+
+
+
+DC motor	robotics board
+κροκοδειλάκια	male pins στο motor 1
